@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24825#The-Ghost-of-Chatham--A-VisionDedicated-to-the-House-of-Peers
 gutenberg_issued: '2008-03-13'
 gutenberg_type: Text
 identifiers:
